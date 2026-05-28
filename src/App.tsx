@@ -1,7 +1,8 @@
 import './App.css'
+import { Popup } from './Popup/Popup.tsx'
 
 function App() {
-    return <></>
+    return <Popup />
 }
 
 export default App
